@@ -1,2 +1,2 @@
-# nx-getting-started
-All code aplied to learn Nx toolkit by documentation
+# Nx Getting Started
+All code aplied to learn Nx toolkit by [documentation](https://nx.dev/angular)
